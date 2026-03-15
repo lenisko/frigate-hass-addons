@@ -36,8 +36,8 @@ RUN bash tensorflow/tensorflow/lite/tools/make/download_dependencies.sh
 RUN env BUILD_NUM_JOBS=$(($(grep -c "^processor" /proc/cpuinfo) / 2)) bash tensorflow/tensorflow/lite/tools/pip_package/build_pip_package_with_cmake.sh
 
 # TODO: apply these changes after updating to 0.16.0:
-# https://github.com/blakeblackshear/frigate-hass-addons/pull/210
-FROM ghcr.io/blakeblackshear/frigate:0.14.1
+# https://github.com/lenisko/frigate-hass-addons/pull/210
+FROM ghcr.io/lenisko/frigate:0.14.1
 COPY --from=build_libedgetpu /libedgetpu1-max_16.0_amd64.deb /
 RUN dpkg -i /libedgetpu1-max_16.0_amd64.deb
 COPY --from=build_tflite /tensorflow/tensorflow/lite/tools/pip_package/gen/tflite_pip/python3/dist/tflite_runtime-2.5.1-cp39-cp39-linux_x86_64.whl /wheels/
