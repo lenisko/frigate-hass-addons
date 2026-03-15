@@ -1,26 +1,26 @@
-### 2794728
+### 029438e
 
-- Update to 2794728 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v2794728)
+- Update to 029438e [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v029438e)
 
-### 2794728-rc3
+### 029438e-rc3
 
-- Update to 2794728-rc3 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v2794728-rc3)
+- Update to 029438e-rc3 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v029438e-rc3)
 
-### 2794728-rc2
+### 029438e-rc2
 
-- Update to 2794728-rc2 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v2794728-rc2)
+- Update to 029438e-rc2 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v029438e-rc2)
 
-### 2794728-rc1
+### 029438e-rc1
 
-- Update to 2794728-rc1 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v2794728-rc1)
+- Update to 029438e-rc1 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v029438e-rc1)
 
-### 2794728-beta2
+### 029438e-beta2
 
-- Update to 2794728-beta2 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v2794728-beta2)
+- Update to 029438e-beta2 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v029438e-beta2)
 
-### 2794728-beta1
+### 029438e-beta1
 
-- Update to 2794728-beta1 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v2794728-beta1)
+- Update to 029438e-beta1 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v029438e-beta1)
 
 ### 0.16.3
 
