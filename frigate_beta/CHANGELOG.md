@@ -1,26 +1,26 @@
-### 76316c4
+### 4df0414
 
-- Update to 76316c4 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v76316c4)
+- Update to 4df0414 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v4df0414)
 
-### 76316c4-rc3
+### 4df0414-rc3
 
-- Update to 76316c4-rc3 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v76316c4-rc3)
+- Update to 4df0414-rc3 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v4df0414-rc3)
 
-### 76316c4-rc2
+### 4df0414-rc2
 
-- Update to 76316c4-rc2 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v76316c4-rc2)
+- Update to 4df0414-rc2 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v4df0414-rc2)
 
-### 76316c4-rc1
+### 4df0414-rc1
 
-- Update to 76316c4-rc1 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v76316c4-rc1)
+- Update to 4df0414-rc1 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v4df0414-rc1)
 
-### 76316c4-beta2
+### 4df0414-beta2
 
-- Update to 76316c4-beta2 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v76316c4-beta2)
+- Update to 4df0414-beta2 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v4df0414-beta2)
 
-### 76316c4-beta1
+### 4df0414-beta1
 
-- Update to 76316c4-beta1 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v76316c4-beta1)
+- Update to 4df0414-beta1 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v4df0414-beta1)
 
 ### 0.16.3
 

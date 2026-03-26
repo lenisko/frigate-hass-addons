@@ -1,6 +1,6 @@
-### 76316c4
+### 4df0414
 
-- Update to 76316c4 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v76316c4)
+- Update to 4df0414 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v4df0414)
 
 ### 0.16.4
 

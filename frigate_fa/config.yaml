@@ -1,7 +1,7 @@
 name: Frigate (Full Access)
-version: 76316c4
+version: 4df0414
 breaking_versions:
-  - 76316c4
+  - 4df0414
   - 0.16.0
   - 0.15.0
   - 0.14.0
