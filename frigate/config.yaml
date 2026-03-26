@@ -1,7 +1,7 @@
 name: Frigate
-version: 029438e
+version: 76316c4
 breaking_versions:
-  - 029438e
+  - 76316c4
   - 0.16.0
   - 0.15.0
   - 0.14.0

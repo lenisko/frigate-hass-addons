@@ -1,6 +1,6 @@
-### 029438e
+### 76316c4
 
-- Update to 029438e [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v029438e)
+- Update to 76316c4 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v76316c4)
 
 ### 0.16.4
 
